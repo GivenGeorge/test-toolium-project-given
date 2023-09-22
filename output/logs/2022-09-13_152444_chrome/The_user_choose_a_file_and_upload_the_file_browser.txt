@@ -1,0 +1,6 @@
+
+2022-09-13 15:25:04.612508 'The_user_choose_a_file_and_upload_the_file' test logs with driver = chrome
+
+2022-09-13 15:24:47.599000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fupload&u=oeu1663075487560r0.5169020012159355&wxhr=true&t=1663075487572&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-13 15:24:48.300000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-13 15:24:51.478000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1663075487560r0.5169020012159355&wxhr=true&t=1663075491461&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

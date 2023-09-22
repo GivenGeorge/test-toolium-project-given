@@ -1,0 +1,4 @@
+
+2022-09-08 10:28:28.503504 'The_user_will_open_Add_Remove_page_to_add_and_delete_button' test logs with driver = chrome
+
+2022-09-08 10:28:20.038000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

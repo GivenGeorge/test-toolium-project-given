@@ -1,0 +1,4 @@
+
+2022-09-07 13:24:30.503483 'Open_status_code_page_and_select_codes' test logs with driver = chrome
+
+2022-09-07 13:24:25.728000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

@@ -1,0 +1,4 @@
+
+2022-09-06 11:56:37.689441 'Basic_Authentication_page_is_successfully_open' test logs with driver = chrome
+
+2022-09-06 11:56:31.471000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

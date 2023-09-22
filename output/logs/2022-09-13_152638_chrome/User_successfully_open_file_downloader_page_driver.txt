@@ -1,0 +1,4 @@
+
+2022-09-13 15:26:56.597527 'User_successfully_open_file_downloader_page' test logs with driver = chrome
+
+2022-09-13 15:26:40.197000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

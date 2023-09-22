@@ -1,0 +1,4 @@
+
+2022-09-06 09:32:46.773652 'Basic_Authentication_page_is_successfully_open' test logs with driver = chrome
+
+2022-09-06 09:32:41.656000	SEVERE	chrome-error://chromewebdata/ - Failed to load resource: the server responded with a status of 401 ()

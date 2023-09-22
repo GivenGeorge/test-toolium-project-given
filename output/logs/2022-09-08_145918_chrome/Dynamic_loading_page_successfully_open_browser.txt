@@ -1,0 +1,10 @@
+
+2022-09-08 14:59:36.437644 'Dynamic_loading_page_successfully_open' test logs with driver = chrome
+
+2022-09-08 14:59:22.035000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fdynamic_loading&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641961998&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:59:22.665000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-08 14:59:25.804000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641965788&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:59:26.061000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fdynamic_loading%2F1&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641966000&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:59:26.063000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641965788&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:59:26.063000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fdynamic_loading&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641961998&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:59:31.350000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662641961987r0.514650608364047&wxhr=true&t=1662641971340&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

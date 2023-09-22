@@ -1,0 +1,5 @@
+
+2022-09-08 10:20:06.537070 'The_user_will_open_Add_Remove_page_to_add_and_delete_button' test logs with driver = chrome
+
+2022-09-08 10:19:59.157000	SEVERE	https://the-internet.kineticskunk.co.za/add_remove_elements - Failed to load resource: the server responded with a status of 404 ()
+2022-09-08 10:19:59.540000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()

@@ -1,0 +1,4 @@
+
+2022-09-05 15:57:25.709367 'The_Context_Menu_successfully_open' test logs with driver = chrome
+
+2022-09-05 15:57:20.140000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

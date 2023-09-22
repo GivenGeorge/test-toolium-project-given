@@ -1,0 +1,4 @@
+
+2022-09-09 10:23:03.657061 'The_user_open_exit_intent_page_successfully_and_move_mouse_and_a_window_will_appear' test logs with driver = chrome
+
+2022-09-09 10:22:57.143000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

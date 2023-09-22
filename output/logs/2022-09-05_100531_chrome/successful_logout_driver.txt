@@ -1,0 +1,4 @@
+
+2022-09-05 10:06:31.147948 'successful_logout' test logs with driver = chrome
+
+2022-09-05 10:05:54.252000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

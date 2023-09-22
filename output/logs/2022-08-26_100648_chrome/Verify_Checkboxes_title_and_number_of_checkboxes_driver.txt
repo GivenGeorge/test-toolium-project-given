@@ -1,0 +1,5 @@
+
+2022-08-26 10:06:56.654274 'Verify_Checkboxes_title_and_number_of_checkboxes' test logs with driver = chrome
+
+2022-08-26 10:06:56.649000	WARNING	Unable to evaluate script: disconnected: not connected to DevTools
+2022-08-26 10:06:56.653000	WARNING	Unable to evaluate script: disconnected: not connected to DevTools

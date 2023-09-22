@@ -1,0 +1,4 @@
+
+2022-09-07 16:23:22.228896 'The_user_choose_a_file_and_upload_the_file' test logs with driver = chrome
+
+2022-09-07 16:23:09.990000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

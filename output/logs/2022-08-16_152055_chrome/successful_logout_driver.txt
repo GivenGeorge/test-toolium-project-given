@@ -1,0 +1,7 @@
+
+2022-08-16 15:21:08.559418 'successful_logout' test logs with driver = chrome
+
+2022-08-16 15:21:08.554000	WARNING	Unable to evaluate script: no such window: target window already closed
+from unknown error: web view not found
+2022-08-16 15:21:08.557000	WARNING	Unable to evaluate script: no such window: target window already closed
+from unknown error: web view not found

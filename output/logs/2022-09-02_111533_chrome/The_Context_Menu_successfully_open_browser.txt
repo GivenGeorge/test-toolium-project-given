@@ -1,0 +1,4 @@
+
+2022-09-02 11:15:36.973228 'The_Context_Menu_successfully_open' test logs with driver = chrome
+
+2022-09-02 11:15:36.361000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fcontext_menu&u=oeu1662110136330r0.44002129945476276&wxhr=true&t=1662110136335&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

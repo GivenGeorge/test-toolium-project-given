@@ -1,0 +1,12 @@
+
+2022-09-05 10:06:31.146525 'successful_logout' test logs with driver = chrome
+
+2022-09-05 10:05:57.874000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Flogin&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365157836&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:05:58.974000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-05 10:05:59.166000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365159139&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:05:59.570000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fsecure&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365159531&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:05:59.573000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365159139&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:05:59.573000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Flogin&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365157836&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:06:19.678000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Flogin&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365175982&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:06:19.678000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365176872&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 10:06:19.689000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662365157824r0.07715594820881289&wxhr=true&t=1662365174649&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

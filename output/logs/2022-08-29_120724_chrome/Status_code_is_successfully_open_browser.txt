@@ -1,0 +1,9 @@
+
+2022-08-29 12:08:13.814679 'Status_code_is_successfully_open' test logs with driver = chrome
+
+2022-08-29 12:07:55.641000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fstatus_codes&u=oeu1661767675622r0.6039697005827458&wxhr=true&t=1661767675627&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-08-29 12:08:01.095000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-08-29 12:08:02.078000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1661767675622r0.6039697005827458&wxhr=true&t=1661767682046&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-08-29 12:08:02.331000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fstatus_codes%2F200&u=oeu1661767675622r0.6039697005827458&wxhr=true&t=1661767682281&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-08-29 12:08:02.333000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1661767675622r0.6039697005827458&wxhr=true&t=1661767682046&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-08-29 12:08:02.333000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fstatus_codes&u=oeu1661767675622r0.6039697005827458&wxhr=true&t=1661767675627&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

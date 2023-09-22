@@ -1,0 +1,6 @@
+
+2022-09-05 16:50:37.096464 'The_Context_Menu_successfully_open' test logs with driver = chrome
+
+2022-09-05 16:50:33.938000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fcontext_menu&u=oeu1662389433887r0.03187846200398803&wxhr=true&t=1662389433898&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-05 16:50:34.336000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-05 16:50:36.004000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662389433887r0.03187846200398803&wxhr=true&t=1662389435982&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

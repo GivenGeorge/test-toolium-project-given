@@ -1,0 +1,5 @@
+
+2022-08-16 12:02:52.819199 'successful_logout' test logs with driver = chrome
+
+2022-08-16 12:02:52.814000	WARNING	Unable to evaluate script: disconnected: not connected to DevTools
+2022-08-16 12:02:52.817000	WARNING	Unable to evaluate script: disconnected: not connected to DevTools

@@ -1,0 +1,6 @@
+
+2022-08-30 16:04:11.111855 'I_successfully_open_key_presses_page' test logs with driver = chrome
+
+2022-08-30 16:04:00.002000	WARNING	chrome-error://chromewebdata/ 6776:10 "crbug/1173575, non-JS module files deprecated."
+2022-08-30 16:04:02.617000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fkey_presses&u=oeu1661868242416r0.2458182975049399&wxhr=true&t=1661868242427&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-08-30 16:04:03.141000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()

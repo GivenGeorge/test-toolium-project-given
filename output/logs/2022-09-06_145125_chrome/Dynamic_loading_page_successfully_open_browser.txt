@@ -1,0 +1,4 @@
+
+2022-09-06 14:51:29.661998 'Dynamic_loading_page_successfully_open' test logs with driver = chrome
+
+2022-09-06 14:51:28.735000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fdynamic_loading&u=oeu1662468688648r0.49510169855511577&wxhr=true&t=1662468688659&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

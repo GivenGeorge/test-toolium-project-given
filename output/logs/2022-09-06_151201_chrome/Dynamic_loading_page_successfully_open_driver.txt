@@ -1,0 +1,4 @@
+
+2022-09-06 15:12:05.435790 'Dynamic_loading_page_successfully_open' test logs with driver = chrome
+
+2022-09-06 15:12:02.915000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

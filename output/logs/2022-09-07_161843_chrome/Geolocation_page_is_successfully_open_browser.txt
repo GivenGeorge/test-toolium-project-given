@@ -1,0 +1,6 @@
+
+2022-09-07 16:18:55.165623 'Geolocation_page_is_successfully_open' test logs with driver = chrome
+
+2022-09-07 16:18:46.235000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fgeolocation&u=oeu1662560326189r0.24421558483850347&wxhr=true&t=1662560326200&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-07 16:18:47.036000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-07 16:18:47.059000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662560326189r0.24421558483850347&wxhr=true&t=1662560327041&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

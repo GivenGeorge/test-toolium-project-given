@@ -1,0 +1,4 @@
+
+2022-09-09 11:12:02.779693 'The_user_successfully_open_JavaScript_Alerts_page_and_handle_the_three_alerts' test logs with driver = chrome
+
+2022-09-09 11:11:43.490000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

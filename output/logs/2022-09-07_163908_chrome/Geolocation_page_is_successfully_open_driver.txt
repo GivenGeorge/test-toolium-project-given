@@ -1,0 +1,4 @@
+
+2022-09-07 16:39:16.923118 'Geolocation_page_is_successfully_open' test logs with driver = chrome
+
+2022-09-07 16:39:10.019000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

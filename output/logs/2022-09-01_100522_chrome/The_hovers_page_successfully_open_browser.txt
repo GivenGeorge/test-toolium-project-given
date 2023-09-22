@@ -1,0 +1,6 @@
+
+2022-09-01 10:05:30.301498 'The_hovers_page_successfully_open' test logs with driver = chrome
+
+2022-09-01 10:05:26.113000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fhovers&u=oeu1662019526077r0.12194061085652086&wxhr=true&t=1662019526086&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-01 10:05:28.146000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
+2022-09-01 10:05:28.219000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=engagement&g=298283957&u=oeu1662019526077r0.12194061085652086&wxhr=true&t=1662019528205&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED

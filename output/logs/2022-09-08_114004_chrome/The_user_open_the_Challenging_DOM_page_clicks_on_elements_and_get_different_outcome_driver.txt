@@ -1,0 +1,4 @@
+
+2022-09-08 11:40:32.183164 'The_user_open_the_Challenging_DOM_page_clicks_on_elements_and_get_different_outcome' test logs with driver = chrome
+
+2022-09-08 11:40:05.944000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

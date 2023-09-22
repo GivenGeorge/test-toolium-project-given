@@ -1,0 +1,4 @@
+
+2022-09-08 16:01:07.542305 'The_user_open_horizontal_slider_page_and_slide_to_maximum' test logs with driver = chrome
+
+2022-09-08 16:01:02.168000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

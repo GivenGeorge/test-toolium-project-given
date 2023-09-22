@@ -1,0 +1,4 @@
+
+2022-09-07 12:23:47.388907 'The_user_open_checkboxes_page_and_click_on_checkbox_1_and_2' test logs with driver = chrome
+
+2022-09-07 12:23:39.439000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

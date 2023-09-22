@@ -1,0 +1,4 @@
+
+2022-09-07 09:48:04.835519 'Open_Entry_ad_page_and_check_if_ad_is_appeared' test logs with driver = chrome
+
+2022-09-07 09:47:52.768000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

@@ -1,0 +1,4 @@
+
+2022-09-05 10:10:10.146369 'Status_code_is_successfully_open' test logs with driver = chrome
+
+2022-09-05 10:09:53.742000	WARNING	This version of ChromeDriver has not been tested with Chrome version 105.

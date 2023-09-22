@@ -1,0 +1,5 @@
+
+2022-09-08 14:29:10.894137 'The_user_open_drag_and_drop_page_and_drag_columns_to_each_other' test logs with driver = chrome
+
+2022-09-08 14:29:08.055000	SEVERE	https://298279967.log.optimizely.com/event?a=298279967&d=298279967&y=false&n=https%3A%2F%2Fthe-internet.kineticskunk.co.za%2Fdrag_and_drop&u=oeu1662640148013r0.4973881273286225&wxhr=true&t=1662640148019&f=298349752,318188263 - Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+2022-09-08 14:29:08.989000	SEVERE	https://the-internet.kineticskunk.co.za/favicon.ico - Failed to load resource: the server responded with a status of 404 ()
